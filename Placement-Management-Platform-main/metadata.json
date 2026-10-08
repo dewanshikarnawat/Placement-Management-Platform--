@@ -1,0 +1,6 @@
+{
+  "name": "Internship Management Platform",
+  "description": "A refined, professional internship management portal for students, recruiters, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
